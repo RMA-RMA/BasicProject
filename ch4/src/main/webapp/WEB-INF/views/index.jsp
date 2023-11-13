@@ -30,13 +30,5 @@
 	<h1>This is HOME</h1>
 </div>
 
-   <div id="testId">제이쿼리 테스트</div>
-
-    <script>
-        $(document).ready(function(){
-            $('#testId').css('background-color','red');
-            $('#testId').css('width','150px');
-        });
-	</script>
 </body>
 </html>
